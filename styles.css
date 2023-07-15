@@ -1,0 +1,50 @@
+ul {
+    font-family: "interstate-condensed", sans-serif;
+    font-weight: 1000;
+    font-size: 20px;
+}
+
+h1 {
+
+    font-family: "interstate-condensed", sans-serif;
+    font-weight: 1000;
+}
+
+#matches {
+
+    font-family: "interstate-condensed", sans-serif;
+}
+
+#raptors {
+    
+        font-family: "interstate-condensed", sans-serif; 
+}
+
+#raptors h3 {
+    font-weight: 1000;
+}
+#raptors p {
+    font-weight: 1000;
+}
+p {
+    font-family: "interstate-condensed", sans-serif; 
+}
+
+h3 {
+    font-family: "interstate-condensed", sans-serif; 
+}
+
+h2 {
+    font-family: "interstate-condensed", sans-serif;
+}
+
+html, body {
+    position:relative;
+    overflow-x:hidden;
+    flex-wrap: wrap;
+} 
+
+#about_us_text {
+    font-family: "interstate-condensed", sans-serif; 
+    font-size: 18px;
+}
